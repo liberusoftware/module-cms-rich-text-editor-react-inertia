@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-rich-text-editor-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-rich-text-editor",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-rich-text-editor-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/rich-text-editor.md",
+  "presentationPlan": "projects/cms/react/rich-text-editor.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
